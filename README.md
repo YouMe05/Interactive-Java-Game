@@ -1,2 +1,2 @@
-# Interactive-Java-Game
-Final project year 2/1 (EGCO213)
+# Interactive Java Game [Final project year 2/1 (EGCO213)]
+This program is a Java-based desktop game developed using Swing, featuring multiple components such as a main game screen, menu system, settings dialog, and utility classes to manage game behavior and interactions.Moreover, designed and implemented GUI elements—including frames, panels, and dialogs—to enable users to interact with game options, start new sessions, and configure settings for a customizable experience.
