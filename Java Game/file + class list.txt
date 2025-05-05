@@ -1,0 +1,27 @@
+MainApplication <- for run
+
+MenuFrame 
+-> class MenuFrame
+
+OptionFrame
+-> class OptionFrame
+
+GameFrame
+-> class GameFrame
+
+SettingDialog
+-> class SettingDialog
+
+GameComponent
+-> class ItemLabel
+-> class HeartLabel
+-> class PlayerLabel
+-> class ObjectLabel
+-> class TimerBar
+
+Utilities
+-> interface MyConstants
+-> class MyFrame
+-> class MyImageIcon
+-> class MySoundEffect
+-> class MyButton
